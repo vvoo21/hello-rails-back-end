@@ -23,7 +23,7 @@
 
 # 📖 Hello Rails React Back-end <a name="about-project"></a>
 
-**Hello Rails React Back-end** is an app to learn how to integrate React with Rails.
+**Hello Rails React Back-end** is an app to learn how to integrate React with Rails.  Link to my React APP: https://github.com/vvoo21/hello-react-front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
